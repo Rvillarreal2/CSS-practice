@@ -46,6 +46,10 @@
     from{left: 0px;}
     to{left: 80%;}
 }
+.container{
+    height: 1080px;
+    width: 100%;
+}
 .title{
     font-weight: bold;
     font-size: 88px;
